@@ -109,15 +109,14 @@ Apresentar o modelo de fazenda do futuro, showcasing tecnologias como IoT, Drone
    ```bash
    git clone https://github.com/seu-usuario/fazenda-do-futuro.git
 
-   ## 🚀 Como Executar
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
 ```bash
 cd fazenda-do-futuro
 ```
 
-Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como **Live Server** (VS Code).
+3. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como **Live Server** (VS Code).
 
 ---
 
@@ -149,4 +148,4 @@ Desenvolvido com 💚 para o Agro Brasileiro 🇧🇷
 
 ---
 
-### 🌱 Obrigado por visitar o projeto! 🚀
+### 🌱 Obrigada por visitar o projeto! 🚀
